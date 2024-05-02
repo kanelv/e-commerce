@@ -1,13 +1,13 @@
-package com.kane.simpleecommerce;
+package com.kane.ecommerce;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SimpleECommerceApplicationTests {
+class EcommerceApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+  @Test
+  void contextLoads() {
+  }
 
 }
